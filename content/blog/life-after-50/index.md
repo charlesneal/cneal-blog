@@ -1,7 +1,6 @@
 ---
 title: Life After 50
 date: "2019-08-24T22:12:03.284Z"
-description: "Is there life after 50?"
 ---
 
 This is my first post on my new fake blog! How exciting!
