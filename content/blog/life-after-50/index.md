@@ -23,6 +23,5 @@ Here are just a few things I'm learning:
 > HTML, CSS, Javascript
 > React, Bootstrap, Node, Express, React-Router, Styled Components
 > Gatsby, Netlify, MongoDB, Postgresql, VSCode, Markdown, Typescript
-> 
 
 ![Chinese Salty Egg](./salty_egg.jpg)

@@ -1,7 +1,9 @@
 ---
 title: Introducing.... Me
 date: "2019-08-24T22:12:03.284Z"
+description:  Okay, I know I am really late getting into this whole...
 ---
+
 Okay, I know I am really late getting into this whole blogging
 thing, but I still have a few years left in me and thought I might
 actually try to learn something new.  Perhaps I'll be able to come
